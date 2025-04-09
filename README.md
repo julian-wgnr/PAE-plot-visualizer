@@ -6,7 +6,7 @@ This tool is designed for anyone with **minimal or no coding experience** who wa
 
 ## How to use
 The *ipynb* file in this repository is a *Jupyter notebook*, which combines code, written in Python, and explanations in one file.  There are two main ways to open and use this a Jupyter notebook: 
-1. **Locally (recommended):**  Open the notebook using either the Jupyter notebook editor or Microso Visual Studio Code. 
+1. **Locally (recommended):**  Open the notebook using either the Jupyter notebook editor or Microso Visual Studio Code with the Python and Jupyter extensions installed. 
 2. **Online:**  Use Google Colab or similar cloud-based platform to run the notebook directly in your browser.  
 
 Once you've downloaded Microsoft Visual Studio Code and opened the `PAE_plot_visualizer.ipynb` file, you'll find:
